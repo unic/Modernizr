@@ -1,4 +1,8 @@
-# Modernizr [![Build Status](http://img.shields.io/travis/Modernizr/Modernizr/master.svg)](http://travis-ci.org/Modernizr/Modernizr)
+# Modernizr
+
+**This repository was forked to have a reliable source when using ```npm install```. It will be removed as soon as [gulp-modernizr](https://github.com/doctyper/gulp-modernizr) has been officially published to the npm registry.**
+
+---
 
 ##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
